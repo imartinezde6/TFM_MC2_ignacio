@@ -24,3 +24,5 @@ A continuación se presentan los documentos subidos en este repositorio:
 - paises_especie.py : programa para conocer que tipo de presencia tienen las especies en el mundo y conocer si alguna de ellas es de tipo "reintroducida".
 
 - sacar_especies_pdf_generales.py : programa para analizar los documentos de la IUCN utilizados y sacar un listado de las especies reintoducidas.
+
+- graficos_finales_unidos.ipynb: cuaderno en el que se encuentra el código de todos los gráficos creados
