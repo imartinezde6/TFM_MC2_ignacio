@@ -1,7 +1,10 @@
 # TFM_MC2_ignacio: Estudio de los programas de cría en cautividad de especies en zoológicos y acuarios
 En este repositorio se encuentran los principales programas usados para el desarrollo de este trabajo, además de dos hojas de cálculo en las que se presentan todos los datos obtenidos.
+
 A continuación se presentan los documentos subidos en este repositorio:
+
 Programas_cria_cautividad.xlsx, reintroducciones.xlsx : de trata del listado de especies obtenido de los tres programas de cría en cautividad analizados, y de las especies reintroducidas, junto con los datos analizados.
+
 bajada_datos_eaza.py, bajada_datos_ssp.py, bajada_datos_zaa.py : tres programas desarrollados para obtener el listado de especies de cada programa de cría en cautividad.
 cambios_categoria.py : programa desarrollado para analizar los cambios en el estado de conservación de las especies estudiadas.
 clase_especies.py : programa creado para obtener el taxón de cada especie analizada.
