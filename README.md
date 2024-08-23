@@ -3,7 +3,7 @@ En este repositorio se encuentran los principales programas usados para el desar
 
 A continuación se presentan los documentos subidos en este repositorio:
 
-- Programas_cria_cautividad.xlsx, reintroducciones.xlsx : de trata del listado de especies obtenido de los tres programas de cría en cautividad analizados, y de las especies reintroducidas, junto con los datos analizados.
+- Programas_cria_cautividad.xlsx, reintroducciones.xlsx : de trata del listado de especies obtenido de los tres programas de cría en cautividad analizados, y de las especies reintroducidas, junto con los datos analizados. Dentro de los programas estos apareceran como "nombres_especies_pdfgenerales_buen_formato_2" para las especies reintroducidas, y como "unido_eaza_spp_zaa_buen_formato_2" para los programas de cría en cautividad.
 
 - bajada_datos_eaza.py, bajada_datos_ssp.py, bajada_datos_zaa.py : tres programas desarrollados para obtener el listado de especies de cada programa de cría en cautividad.
 
